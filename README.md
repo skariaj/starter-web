@@ -15,3 +15,5 @@ Sample website with plenty of files for demos
 ## New Heading 4
 
 ## New Heading 5
+
+## New Heading 6
