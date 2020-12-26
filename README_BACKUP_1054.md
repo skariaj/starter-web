@@ -25,3 +25,9 @@ Sample website with plenty of files for demos
 ## New Heading 9 91
 
 ## New Heading 10 12
+
+<<<<<<< HEAD
+=======
+## New Heading 10 11
+
+>>>>>>> feature1
